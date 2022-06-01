@@ -2,7 +2,7 @@
 [![Screenshot-page-saver.jpg](https://i.postimg.cc/HssHnrKm/Screenshot-page-saver.jpg)](https://postimg.cc/8s3xnzNX)
 
 ## Overview
-This app saves Google Chrome webpages for future use. It is based on a Scrimba tutorial.
+This app saves Google Chrome webpages for future use.
 
 ## Features
 - User input
